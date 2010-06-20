@@ -14,7 +14,7 @@ setup(
     url='http://github.com/dsc/gamebook',
     install_requires=[
         "Pylons>=1.0",
-        "lazyboy>0.7.5",
+        "lazyboy>=0.7.5",
     ],
     setup_requires=["PasteScript>=1.6.3"],
     packages=find_packages(exclude=['ez_setup']),
