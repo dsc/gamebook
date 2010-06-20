@@ -1,0 +1,3 @@
+include gamebook/config/deployment.ini_tmpl
+recursive-include gamebook/public *
+recursive-include gamebook/templates *
