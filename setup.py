@@ -10,7 +10,7 @@ setup(
     version='0.1',
     description='Choose Your Own Choose Your Own Adventure!',
     author=['David Schoonover', 'Leigh Honeywell'],
-    author_email=['dsc@less.ly', 'leigh@hypatia.ca'],,
+    author_email=['dsc@less.ly', 'leigh@hypatia.ca'],
     url='http://github.com/dsc/gamebook',
     install_requires=[
         "Pylons>=1.0",
